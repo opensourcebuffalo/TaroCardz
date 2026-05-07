@@ -1,2 +1,3 @@
-# Taro
-2026 Startup Wednesday Project: Make City Hall a Video Game!
+# Taro sez... swipe through City Hall
+2026 Startup Wednesday Project
+
