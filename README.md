@@ -32,7 +32,7 @@ short-form public interest reporting
 Civic Architecture
 Major Arcana
 
-Buffalo Charter articles:
+Buffalo Charter articles, ex:
 
 Council
 Mayor
@@ -69,8 +69,8 @@ Open data + public agendas
 Initial Data Sources
 | Agency / Source                            | URL                                                                                                            | Agenda Access | Video / Livestream | Public Comment | Data Format      | Notes / Research Questions                        |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------- | ------------------ | -------------- | ---------------- | ------------------------------------------------- |
-| Buffalo Charter                            | [https://ecode360.com/11766266](https://ecode360.com/11766266)                                                 | N/A           | No                 | N/A            | HTML             | Can Charter articles become “Major Arcana”?       |
-| Common Council                             | [https://buffalony.legistar.com](https://buffalony.legistar.com)                                               | Yes           | Yes                | Yes            | Legistar / PDF   | Best source for legislation, hearings, committees |
+| Buffalo Charter                            | [https://ecode360.com/BU1237)                                                 | N/A           | No                 | N/A            | HTML             | Can Charter articles become “Major Arcana”?       |
+| Common Council                             | [https://buffalony.legistar.com](https://buffalony.iqm2.com/Citizens/Default.aspx)                                               | Yes           | Yes                | Yes            | Legistar / PDF   | Best source for legislation, hearings, committees |
 | Planning Board                             | [https://www.buffalony.gov/456/Planning-Board](https://www.buffalony.gov/456/Planning-Board)                   | Yes           | Sometimes          | Yes            | PDF              | Development, zoning, SEQR actions                 |
 | Zoning Board of Appeals (ZBA)              | [https://www.buffalony.gov/463/Zoning-Board-of-Appeals](https://www.buffalony.gov/463/Zoning-Board-of-Appeals) | Yes           | Limited/Unknown    | Yes            | PDF              | Variances, appeals, neighborhood disputes         |
 | Buffalo Urban Renewal Agency (BURA)        | [https://www.buffalourbanrenewal.com](https://www.buffalourbanrenewal.com)                                     | Yes           | Sometimes          | Limited        | PDF              | Economic development, land disposition            |
