@@ -17,6 +17,8 @@ HEADERS = {
 
 
 def clean(text: str) -> str:
+    if text is None:
+        return ""
     return " ".join(text.replace("\xa0", " ").split())
 
 
@@ -35,9 +37,11 @@ def parse_item_text(text):
     Parses:
     26-671 : Mayor Out of Town Travel 5/5-5/6/2026
     """
+    text = clean(text)
     match = re.match(r"(?P<file_number>\d{2}-\d+)\s*:\s*(?P<title>.*)", text)
+
     if not match:
-        return None, clean(text)
+        return None, text
 
     return match.group("file_number"), clean(match.group("title"))
 
@@ -85,7 +89,9 @@ def scrape_meeting(url):
     if not table:
         raise RuntimeError("Could not find table#MeetingDetail")
 
-    current_section = None
+    current_department = None
+    current_sublist_committee = None
+    in_submission_lists = False
     current_item = None
 
     for tr in table.find_all("tr"):
@@ -93,15 +99,36 @@ def scrape_meeting(url):
         if not row_text:
             continue
 
-        strong = tr.find("strong")
-        if strong:
-            section = clean(strong.get_text())
-            if section:
-                current_section = section
+        strong_texts = [
+            clean(s.get_text())
+            for s in tr.find_all("strong")
+            if clean(s.get_text())
+        ]
+
+        # Section / department heading rows
+        if strong_texts:
+            heading = strong_texts[-1]
+            if heading.upper() == "SUBMISSION LISTS":
+                in_submission_lists = True
+                current_department = "SUBMISSION LISTS"
+                current_sublist_committee = None
                 current_item = None
+                continue
+
+            # After SUBMISSION LISTS, strong headings are usually committees
+            if in_submission_lists:
+                current_sublist_committee = heading
+                current_item = None
+                continue
+
+            current_department = heading
+            current_sublist_committee = None
+            current_item = None
             continue
 
         links = tr.find_all("a", href=True)
+
+        # Detect agenda order from td.Num, e.g. "12."
         num_cells = tr.select("td.Num")
         num_values = [clean(td.get_text()) for td in num_cells if clean(td.get_text())]
 
@@ -111,16 +138,29 @@ def scrape_meeting(url):
                 agenda_order = val.replace(".", "")
                 break
 
-        # Main agenda item row
-        if agenda_order and links:
-            item_link = links[0]
+        # Main agenda item rows have Detail_LegiFile.aspx links.
+        # Some agenda items may be unnumbered, so do NOT rely only on agenda_order.
+        item_link = None
+        for a in links:
+            href = a.get("href", "")
+            if "Detail_LegiFile.aspx" in href:
+                item_link = a
+                break
+
+        if item_link:
             item_text = clean(item_link.get_text())
             file_number, title = parse_item_text(item_text)
 
             current_item = {
                 "meeting_id": meeting["meeting_id"],
                 "agenda_id": meeting["agenda_id"],
-                "section": current_section,
+                "department": current_department,
+                "sublist_committee": current_sublist_committee,
+                "display_section": (
+                    f"SUBMISSION LISTS / {current_sublist_committee}"
+                    if current_sublist_committee
+                    else current_department
+                ),
                 "agenda_order": agenda_order,
                 "file_number": file_number,
                 "title": title,
@@ -132,10 +172,14 @@ def scrape_meeting(url):
             meeting["items"].append(current_item)
             continue
 
-        # Attachment rows under the current agenda item
+        # Attachment rows under the most recent current item
         if current_item and links:
             for a in links:
-                href = a["href"]
+                href = a.get("href", "")
+
+                if "FileOpen.aspx" not in href:
+                    continue
+
                 current_item["attachments"].append({
                     "label": clean(a.get_text()),
                     "type": classify_attachment(href),
@@ -155,7 +199,9 @@ def write_items_csv(meeting, path):
         "meeting_id",
         "agenda_id",
         "meeting_date",
-        "section",
+        "department",
+        "sublist_committee",
+        "display_section",
         "agenda_order",
         "file_number",
         "title",
@@ -172,7 +218,9 @@ def write_items_csv(meeting, path):
                 "meeting_id": meeting["meeting_id"],
                 "agenda_id": meeting["agenda_id"],
                 "meeting_date": meeting["meeting_date"],
-                "section": item["section"],
+                "department": item["department"],
+                "sublist_committee": item["sublist_committee"],
+                "display_section": item["display_section"],
                 "agenda_order": item["agenda_order"],
                 "file_number": item["file_number"],
                 "title": item["title"],
@@ -185,7 +233,9 @@ def write_attachments_csv(meeting, path):
     fields = [
         "file_number",
         "agenda_order",
-        "section",
+        "department",
+        "sublist_committee",
+        "display_section",
         "item_title",
         "attachment_label",
         "attachment_type",
@@ -201,7 +251,9 @@ def write_attachments_csv(meeting, path):
                 writer.writerow({
                     "file_number": item["file_number"],
                     "agenda_order": item["agenda_order"],
-                    "section": item["section"],
+                    "department": item["department"],
+                    "sublist_committee": item["sublist_committee"],
+                    "display_section": item["display_section"],
                     "item_title": item["title"],
                     "attachment_label": att["label"],
                     "attachment_type": att["type"],
