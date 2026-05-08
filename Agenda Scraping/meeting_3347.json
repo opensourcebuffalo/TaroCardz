@@ -21,7 +21,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR",
+      "sublist_committee": null,
+      "display_section": "MAYOR",
       "agenda_order": "1",
       "file_number": "26-671",
       "title": "Mayor Out of Town Travel 5/5-5/6/2026",
@@ -43,7 +45,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "2",
       "file_number": "26-672",
       "title": "Bisharo Ali, Dba Najah Broadway Market Lease Extension Agreement (FI)",
@@ -65,7 +69,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "3",
       "file_number": "26-673",
       "title": "Juicey Quartz Juice Bar - Broadway Market Lease",
@@ -87,7 +93,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "4",
       "file_number": "26-674",
       "title": "Regarding the Granting of an Easement in Connection with the Development of the North Aud Block (Fillmore District)",
@@ -109,7 +117,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "5",
       "file_number": "26-675",
       "title": "Permission to Enter into Use Agreements with Several Community Partners at the Four (4) City of Buffalo Community Centers Located at 2056 Genesee, 2057 Genesee, 24 Ludington and 1168 Seneca",
@@ -166,7 +176,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "6",
       "file_number": "26-676",
       "title": "Planning Board Findings for April 20, 2026; \"765 Hertel Avenue Zoning Map Amendment\", \"1462 Main Street Special Use Permit\", \"1048 Clinton Street Special Use Permit\", \"810 Elmwood Avenue Special Use Permit\", \"98 Rhode Island Special Use Permit\", and 2480 Delaware Avenue Special Use Permit\".",
@@ -188,7 +200,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "7",
       "file_number": "26-677",
       "title": "Polling Location Lease Agreement - 129 Lewis Street (FI)",
@@ -210,7 +224,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "8",
       "file_number": "26-678",
       "title": "School 44 on Broadway PILOT (Fillmore District)",
@@ -232,7 +248,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MAYOR EXECUTIVE",
+      "sublist_committee": null,
+      "display_section": "MAYOR EXECUTIVE",
       "agenda_order": "9",
       "file_number": "26-679",
       "title": "Submission of Monthly Report (311 Calls) April 2026",
@@ -254,7 +272,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "COMPTROLLER",
+      "sublist_committee": null,
+      "display_section": "COMPTROLLER",
       "agenda_order": "10",
       "file_number": "26-680",
       "title": "Certificate of Necessity- Safe Streets",
@@ -276,7 +296,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "MANAGEMENT INFORMATION SYSTEMS",
+      "sublist_committee": null,
+      "display_section": "MANAGEMENT INFORMATION SYSTEMS",
       "agenda_order": "11",
       "file_number": "26-681",
       "title": "Appoint Data Specialist I (Prov)(Inter)(Schultz)(58,482)AMENDED",
@@ -298,7 +320,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "12",
       "file_number": "26-682",
       "title": "Change Order #1 $6,948.00 - Alleyway Theatre - Weaver Metal & Roofing Incorporated",
@@ -315,7 +339,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "13",
       "file_number": "26-683",
       "title": "Change Order #1 $2,643.68 – Dorothy J Collier CC Yr 49 Improvements-GC – Allstate General Contracting",
@@ -332,7 +358,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "14",
       "file_number": "26-684",
       "title": "Change Order – Bailey Complete Street Phase 1 - PIN 5763.19 - Watts - $298,606",
@@ -349,7 +377,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "15",
       "file_number": "26-685",
       "title": "Change Order – Hertel Avenue Landscaping Improvements - Group 1059 Phase 2 – Landscape Associate of WNY, Inc - $12,465.45",
@@ -366,7 +396,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "16",
       "file_number": "26-686",
       "title": "Encroachment in City Right of Way- Proposed Handicap Ramp & Stair Entry at 1273 Niagara Street",
@@ -388,7 +420,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "17",
       "file_number": "26-687",
       "title": "Encroachment in City Right of Way - Proposed Stair Entry at 1277 Niagara Street (Auburn)",
@@ -410,7 +444,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "18",
       "file_number": "26-688",
       "title": "Report of Bids - CDBG YR-51 Citywide Curb and Sidewalk Replacement - Group 1143A",
@@ -432,7 +468,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "19",
       "file_number": "26-689",
       "title": "Report of Bids Colonel Ward WTP Disinfection Conversion – Plumbing Contract - Quackenbush",
@@ -454,7 +492,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "20",
       "file_number": "26-690",
       "title": "Retention Reduction – Colonel Ward Electrical Upgrade Project - 93002903 – Frey Electric",
@@ -471,7 +511,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "21",
       "file_number": "26-691",
       "title": "AMENDED Notice of Appointment - Equipment Operator - (Perm)(Int - $42,385) Militello",
@@ -493,7 +535,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "22",
       "file_number": "26-692",
       "title": "Notice of Appointment - Associate Account Clerk - (Perm)(Inter $47,955) Hampton",
@@ -515,7 +559,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "23",
       "file_number": "26-693",
       "title": "Notice of Appointment - Caulker Supervisor I - (Temp)(Inter - $60,615) Berdych",
@@ -537,7 +583,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "24",
       "file_number": "26-694",
       "title": "Notice of Appointment - Special Asst. to Commissioner (Perm)(Exempt)(Min $52,045) Stevens",
@@ -553,12 +601,21 @@
           "label": "STEVENS, J. COA SIGNED_Redacted",
           "type": "item_attachment",
           "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=34337&MeetingID=3347"
-        },
-        {
-          "label": "26-695 : Notice of Status Change - Meter Reader - (Perm)(Min $40,131) - Crawford",
-          "type": "unknown",
-          "url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29910&CssClass="
-        },
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
+      "agenda_order": null,
+      "file_number": "26-695",
+      "title": "Notice of Status Change - Meter Reader - (Perm)(Min $40,131) - Crawford",
+      "raw_item_text": "26-695 : Notice of Status Change - Meter Reader - (Perm)(Min $40,131) - Crawford",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29910&CssClass=",
+      "attachments": [
         {
           "label": "Agenda Item Printout",
           "type": "agenda_item_printout",
@@ -574,7 +631,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "25",
       "file_number": "26-696",
       "title": "Status Change - Supervisor Street Sanitation 1- (Perm) (Max - $56,773) Chmiel",
@@ -596,7 +655,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PUBLIC WORKS",
+      "sublist_committee": null,
+      "display_section": "PUBLIC WORKS",
       "agenda_order": "26",
       "file_number": "26-697",
       "title": "Status Change - Supervisor Street Sanitation 1 - (Perm) (Max $56,773) Moran",
@@ -618,7 +679,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PARKS & RECREATION",
+      "sublist_committee": null,
+      "display_section": "PARKS & RECREATION",
       "agenda_order": "27",
       "file_number": "26-698",
       "title": "Change Order - 93003592 - Miller Construction Services - $123,940.00",
@@ -640,7 +703,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PARKS & RECREATION",
+      "sublist_committee": null,
+      "display_section": "PARKS & RECREATION",
       "agenda_order": "28",
       "file_number": "26-699",
       "title": "Request for Authorization to Implement Pesticide Control Plan for Controlling Invasive Species.",
@@ -662,7 +727,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "POLICE",
+      "sublist_committee": null,
+      "display_section": "POLICE",
       "agenda_order": "29",
       "file_number": "26-700",
       "title": "Permission to Accept STRIVE II Iniative Grant",
@@ -684,7 +751,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "POLICE",
+      "sublist_committee": null,
+      "display_section": "POLICE",
       "agenda_order": "30",
       "file_number": "26-701",
       "title": "Appoint Deputy Police Commissioner - (Prom)(Flat)(164,207)(Jones)",
@@ -706,7 +775,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "POLICE",
+      "sublist_committee": null,
+      "display_section": "POLICE",
       "agenda_order": "31",
       "file_number": "26-702",
       "title": "Appoint Deputy Police Commissioner - (Exempt)(Macy)(164,207)",
@@ -728,7 +799,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "POLICE",
+      "sublist_committee": null,
+      "display_section": "POLICE",
       "agenda_order": "32",
       "file_number": "26-703",
       "title": "Appoint Police Chief (Prom)(Flat)(140,001)(LLyod)",
@@ -750,7 +823,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "POLICE",
+      "sublist_committee": null,
+      "display_section": "POLICE",
       "agenda_order": "33",
       "file_number": "26-704",
       "title": "Change of Status - Budget Administrator (Temp)(Inter)(Somani)($88,210)",
@@ -772,7 +847,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CORPORATION COUNSEL",
+      "sublist_committee": null,
+      "display_section": "CORPORATION COUNSEL",
       "agenda_order": "34",
       "file_number": "26-705",
       "title": "Appoint Assistant Corporation Counsel II (Perm( (Inter) (Snuszka)",
@@ -794,7 +871,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CORPORATION COUNSEL",
+      "sublist_committee": null,
+      "display_section": "CORPORATION COUNSEL",
       "agenda_order": "35",
       "file_number": "26-706",
       "title": "Appoint Assistant Corporation Counsel II (Perm) (Inter) (Freedenberg)",
@@ -816,7 +895,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PERMITS & INSPECTIONS",
+      "sublist_committee": null,
+      "display_section": "PERMITS & INSPECTIONS",
       "agenda_order": "36",
       "file_number": "26-707",
       "title": "Garbage Collector License (NEW) Pinto Construction Services Inc",
@@ -838,7 +919,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PERMITS & INSPECTIONS",
+      "sublist_committee": null,
+      "display_section": "PERMITS & INSPECTIONS",
       "agenda_order": "37",
       "file_number": "26-708",
       "title": "Lodging House License (NEW) 358 CURTISS ST (FIL)",
@@ -860,7 +943,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PERMITS & INSPECTIONS",
+      "sublist_committee": null,
+      "display_section": "PERMITS & INSPECTIONS",
       "agenda_order": "38",
       "file_number": "26-709",
       "title": "Restaurant Dance License (NEW) 1 Harbor Line AKA 329 Erie (FIL)",
@@ -882,7 +967,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PERMITS & INSPECTIONS",
+      "sublist_committee": null,
+      "display_section": "PERMITS & INSPECTIONS",
       "agenda_order": "39",
       "file_number": "26-710",
       "title": "(NEW) Tobacco/Hookah/Vape 797 BROADWAY STE 1 (FIL)",
@@ -904,7 +991,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PERMITS & INSPECTIONS",
+      "sublist_committee": null,
+      "display_section": "PERMITS & INSPECTIONS",
       "agenda_order": "40",
       "file_number": "26-711",
       "title": "Used Car Dealer (NEW) 1225 Sycamore ST (FILL)",
@@ -926,7 +1015,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PERMITS & INSPECTIONS",
+      "sublist_committee": null,
+      "display_section": "PERMITS & INSPECTIONS",
       "agenda_order": "41",
       "file_number": "26-712",
       "title": "Used Car Dealer (NEW) 65 MIAMI ST ((FIL)",
@@ -948,7 +1039,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "PERMITS & INSPECTIONS",
+      "sublist_committee": null,
+      "display_section": "PERMITS & INSPECTIONS",
       "agenda_order": "42",
       "file_number": "26-713",
       "title": "Appoint Chief Electrical Inspector (Prov)(Max)(Chandler)(84,688)",
@@ -970,7 +1063,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "ADMINISTRATION, FINANCE, POLICY & URBAN AFFAIRS",
+      "sublist_committee": null,
+      "display_section": "ADMINISTRATION, FINANCE, POLICY & URBAN AFFAIRS",
       "agenda_order": "43",
       "file_number": "26-714",
       "title": "Permission to Auction/Scrap Vehicles",
@@ -987,7 +1082,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "HUMAN RESOURCES",
+      "sublist_committee": null,
+      "display_section": "HUMAN RESOURCES",
       "agenda_order": "44",
       "file_number": "26-715",
       "title": "Appoint Secr to the Comm of HR - (Exempt)(Flat)(Croom)(55,061.00)",
@@ -1009,7 +1106,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
       "agenda_order": "45",
       "file_number": "26-716",
       "title": "Cannabis Establishment Notice - 1673 Hertel (DEL)",
@@ -1031,7 +1130,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
       "agenda_order": "46",
       "file_number": "26-717",
       "title": "Liquor License Notice - 242 Allen (FIL)",
@@ -1047,12 +1148,21 @@
           "label": "242 ALLEN",
           "type": "item_attachment",
           "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=34778&MeetingID=3347"
-        },
-        {
-          "label": "26-718 : Liquor License Notice - 1300 Elmwood Ave(DEL)",
-          "type": "unknown",
-          "url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29976&CssClass="
-        },
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
+      "agenda_order": null,
+      "file_number": "26-718",
+      "title": "Liquor License Notice - 1300 Elmwood Ave(DEL)",
+      "raw_item_text": "26-718 : Liquor License Notice - 1300 Elmwood Ave(DEL)",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29976&CssClass=",
+      "attachments": [
         {
           "label": "Agenda Item Printout",
           "type": "agenda_item_printout",
@@ -1062,12 +1172,21 @@
           "label": "1300 Elmwood",
           "type": "item_attachment",
           "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=34904&MeetingID=3347"
-        },
-        {
-          "label": "26-719 : Liquor License Notice - 291 Ellicott (ELL)",
-          "type": "unknown",
-          "url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29942&CssClass="
-        },
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
+      "agenda_order": null,
+      "file_number": "26-719",
+      "title": "Liquor License Notice - 291 Ellicott (ELL)",
+      "raw_item_text": "26-719 : Liquor License Notice - 291 Ellicott (ELL)",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29942&CssClass=",
+      "attachments": [
         {
           "label": "Agenda Item Printout",
           "type": "agenda_item_printout",
@@ -1083,7 +1202,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
       "agenda_order": "47",
       "file_number": "26-720",
       "title": "Comingling Event Application - 69 W Chippewa 5/7/26,5/14/26,5/21/26,5/28/26",
@@ -1105,7 +1226,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
       "agenda_order": "48",
       "file_number": "26-721",
       "title": "Comingling Event Application - 69 W Chippewa 6/4/26,6/11/26,6/18/26,6/25/26",
@@ -1127,7 +1250,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
       "agenda_order": "49",
       "file_number": "26-722",
       "title": "Comingling",
@@ -1149,7 +1274,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
       "agenda_order": "50",
       "file_number": "26-723",
       "title": "List of Approved Chicken Licenses 5.1.26",
@@ -1171,7 +1298,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": null,
+      "department": "CITY CLERK",
+      "sublist_committee": null,
+      "display_section": "CITY CLERK",
       "agenda_order": "51",
       "file_number": "26-724",
       "title": "Appoint Senior Leg Iv- Lovejoy-Solomon Carter",
@@ -1193,7 +1322,105 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Notice of Appointments Temp/Prov/Perm",
+      "sublist_committee": null,
+      "display_section": "Notice of Appointments Temp/Prov/Perm",
+      "agenda_order": null,
+      "file_number": "26-725",
+      "title": "Appoint Clerk (Prov)(Min)(Santiago)(40,242)",
+      "raw_item_text": "26-725 : Appoint Clerk (Prov)(Min)(Santiago)(40,242)",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29889&CssClass=",
+      "attachments": [
+        {
+          "label": "Agenda Item Printout",
+          "type": "agenda_item_printout",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=30&ID=877660&MeetingID=3347"
+        },
+        {
+          "label": "coa- kiara santiago-04272026094909",
+          "type": "item_attachment",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=34753&MeetingID=3347"
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "Notice of Appointments Temp/Prov/Perm",
+      "sublist_committee": null,
+      "display_section": "Notice of Appointments Temp/Prov/Perm",
+      "agenda_order": null,
+      "file_number": "26-726",
+      "title": "Notice of Appointment - Sign Technician - (Prov)(Min $40,131) - Hill",
+      "raw_item_text": "26-726 : Notice of Appointment - Sign Technician - (Prov)(Min $40,131) - Hill",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29901&CssClass=",
+      "attachments": [
+        {
+          "label": "Agenda Item Printout",
+          "type": "agenda_item_printout",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=30&ID=877658&MeetingID=3347"
+        },
+        {
+          "label": "Henly Hill COA Signed Redacted",
+          "type": "item_attachment",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=34758&MeetingID=3347"
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "Notice of Appointments Temp/Prov/Perm",
+      "sublist_committee": null,
+      "display_section": "Notice of Appointments Temp/Prov/Perm",
+      "agenda_order": null,
+      "file_number": "26-727",
+      "title": "Notice of Appointment - Truck Driver - (Perm)(Min - $40,131) - Green",
+      "raw_item_text": "26-727 : Notice of Appointment - Truck Driver - (Perm)(Min - $40,131) - Green",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29890&CssClass=",
+      "attachments": [
+        {
+          "label": "Agenda Item Printout",
+          "type": "agenda_item_printout",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=30&ID=877659&MeetingID=3347"
+        },
+        {
+          "label": "Emerald Green COA Signed_Redacted",
+          "type": "item_attachment",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=34754&MeetingID=3347"
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "Notice of Appointments Temp/Prov/Perm",
+      "sublist_committee": null,
+      "display_section": "Notice of Appointments Temp/Prov/Perm",
+      "agenda_order": null,
+      "file_number": "26-728",
+      "title": "Notice of Appointment - Truck Driver (Perm) (Min $40,131) Truman, J",
+      "raw_item_text": "26-728 : Notice of Appointment - Truck Driver (Perm) (Min $40,131) Truman, J",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=29944&CssClass=",
+      "attachments": [
+        {
+          "label": "Agenda Item Printout",
+          "type": "agenda_item_printout",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=30&ID=877657&MeetingID=3347"
+        },
+        {
+          "label": "102725 051126 COA, Truman, Julian TRUCK DRIVER_Redacted",
+          "type": "item_attachment",
+          "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=4&ID=34780&MeetingID=3347"
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "53",
       "file_number": "26-729",
       "title": "M. Austin, Concerns for Appeals Board",
@@ -1215,7 +1442,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "54",
       "file_number": "26-730",
       "title": "P. Baker - Requesting Support for NYS \"Bottle Bill\"",
@@ -1237,7 +1466,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "55",
       "file_number": "26-731",
       "title": "E. Grant - Appreciation for Show of Respect for Canadian National Anthem",
@@ -1259,7 +1490,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "56",
       "file_number": "26-746",
       "title": "T Haut - Additional Information to #24-1771 PUD @ 680 Amherst & 666, 668, 670 Amherst; 111, 141, 155 Marion; 1634, 1628, 1624 Elmwood . Update to Proposed Waiver/Modifications on the Original PUD",
@@ -1281,7 +1514,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "57",
       "file_number": "26-732",
       "title": "K. Muranyi - Concerns Re: Mayor's Proposed Budget",
@@ -1303,7 +1538,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "58",
       "file_number": "26-733",
       "title": "J Skinner - Regarding Old First Ward Playground Committee",
@@ -1325,7 +1562,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "59",
       "file_number": "26-734",
       "title": "SEQR Negative Declarations",
@@ -1352,7 +1591,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "MISCELLANEOUS",
+      "sublist_committee": null,
+      "display_section": "MISCELLANEOUS",
       "agenda_order": "60",
       "file_number": "26-735",
       "title": "SEQR Neg Dec - 375 Michigan Ave",
@@ -1374,7 +1615,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "PETITIONS",
+      "sublist_committee": null,
+      "display_section": "PETITIONS",
       "agenda_order": "61",
       "file_number": "26-736",
       "title": "M. Schmidbauer, Special Use - 141 Bidwell (Aka 957 Elmwood) - Live Entertainment - N-2C Zone (Del)(Hrg6/16/26",
@@ -1401,7 +1644,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Civil Service",
+      "sublist_committee": null,
+      "display_section": "Civil Service",
       "agenda_order": "1",
       "file_number": "26-589",
       "title": "AMENDED Certificate of Appointment Commissioner of Police - Macy",
@@ -1423,7 +1668,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Civil Service",
+      "sublist_committee": null,
+      "display_section": "Civil Service",
       "agenda_order": "2",
       "file_number": "26-598",
       "title": "Appoint Data Specialist I (Prov)(Inter)(Schultz)",
@@ -1450,7 +1697,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Civil Service",
+      "sublist_committee": null,
+      "display_section": "Civil Service",
       "agenda_order": "3",
       "file_number": "26-607",
       "title": "Appoint- Equipment Operator (Perm) (Intermediate)(Lecounte)( $42,385)",
@@ -1472,7 +1721,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Civil Service",
+      "sublist_committee": null,
+      "display_section": "Civil Service",
       "agenda_order": "4",
       "file_number": "26-626",
       "title": "Appoint - Account Clerk Typist - (Prov)(Min)(Welch) - $41,887",
@@ -1494,7 +1745,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Civil Service",
+      "sublist_committee": null,
+      "display_section": "Civil Service",
       "agenda_order": "5",
       "file_number": "26-627",
       "title": "Appoint - Administrative Secretary - (Prov)(Min)(Evans) - $48,125",
@@ -1516,7 +1769,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "6",
       "file_number": "26-596",
       "title": "Comptroller's Response to the Fiscal Year 2026-2027 Recommended Budget",
@@ -1538,7 +1793,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "7",
       "file_number": "26-597",
       "title": "Correspondence Regarding Administration's Proposed FY 2026-2027 Budget Resolutions",
@@ -1560,7 +1817,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "8",
       "file_number": "26-640",
       "title": "Nowakowski-Bond Resolution-2026- No A1 Various Roadway Improvement ($8,283,044)",
@@ -1582,7 +1841,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "9",
       "file_number": "26-641",
       "title": "Nowakowski-Bond Resolution-2026 No. 02 Electric Vehicle Charging Station ($600,000)",
@@ -1604,7 +1865,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "10",
       "file_number": "26-642",
       "title": "Nowakowski- Bond Resolution 2026 - No. 07 Streets Sanitation Equipment- $160,000)",
@@ -1626,7 +1889,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "11",
       "file_number": "26-643",
       "title": "Nowakowski- Bond Resolution-2026- No.08 Streets Saniitation Equipment ($175,000)",
@@ -1648,7 +1913,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "12",
       "file_number": "26-644",
       "title": "Nowakowski-Bond Resolution-2026-No.09 Streets Sanitation Equipment ($1,237,033)",
@@ -1670,7 +1937,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "13",
       "file_number": "26-645",
       "title": "Nowakowski- Bond Resolution-2026- No.10 Streets Equipment (1,720.112)",
@@ -1692,7 +1961,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "14",
       "file_number": "26-646",
       "title": "Nowakowski-Bond Resolution-2026 No.11 Streets Sanitation Equipment ($165,000)",
@@ -1714,7 +1985,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "15",
       "file_number": "26-647",
       "title": "Nowakowski- Bond Resolution-2026- No. 12 Planning Grant Street ($150,000)",
@@ -1736,7 +2009,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "16",
       "file_number": "26-648",
       "title": "Nowakowski-Bond Resolution-2026 -No.23 Bay Doors Replacement ESTS ($192,000)",
@@ -1758,7 +2033,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "17",
       "file_number": "26-649",
       "title": "Nowakowski-Bond Resolution-2026 No. 25 Boiler Replacement Leroy Coles Library ($349,888)",
@@ -1780,7 +2057,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "18",
       "file_number": "26-650",
       "title": "Nowakowski-Bond Resolution- 2026 -No.35 Fire Suppresion System City Hall ($62,978)",
@@ -1802,7 +2081,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "19",
       "file_number": "26-651",
       "title": "Nowakowski- Bond Resolution-2026-No.36 HVAC Improvement Apollo Media Center ($50,000)",
@@ -1824,7 +2105,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "20",
       "file_number": "26-652",
       "title": "Nowakowski-Bond Resolution-2026-No.38 HVAC Improvement Elaine Pantry Library ($430,000)",
@@ -1846,7 +2129,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "21",
       "file_number": "26-653",
       "title": "Nowakowski-Bond Resolution-2026 No. 39 HVAC Improvement Lovejoy Pool ($300,000)",
@@ -1868,7 +2153,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "22",
       "file_number": "26-654",
       "title": "Nowakowski-Bond Resolution-2026 No. 41 Perimeter Fence Improvement Zone ($1,105,000)",
@@ -1890,7 +2177,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "23",
       "file_number": "26-655",
       "title": "Nowakowski-Bond Resolution-2026 No. 44 Roof Improvement Apollo Media Center ($400,000)",
@@ -1912,7 +2201,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "24",
       "file_number": "26-656",
       "title": "Nowakowski- Bond Resolution-2026-No.45 Roof Improvement Caz Ice Rink ($1,050,000)",
@@ -1934,7 +2225,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "25",
       "file_number": "26-657",
       "title": "Nowakowski-Bond Resolution-2026 -No.46 Roof Replacement Peter Crotty Casino ($1,600,000))",
@@ -1956,7 +2249,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "26",
       "file_number": "26-658",
       "title": "Nowakowski-Bond Resolution-2026-No.47 Roof Replacement Sheas Theatre ($1,140,000)",
@@ -1978,7 +2273,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "27",
       "file_number": "26-659",
       "title": "Nowakowski-Bond Resolution-2026 No. 48 Security System Improvement 1345 Bailey ($30,000)",
@@ -2000,7 +2297,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "28",
       "file_number": "26-660",
       "title": "Nowakowski-Bond Resolution- 2026 No.49 Cathedral Park Improvements-($120,000)",
@@ -2022,7 +2321,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "29",
       "file_number": "26-661",
       "title": "Nowakowski-Bond Resolution-2026-No. 50 Emergency Generator Delaware Labor Center ($275,000)",
@@ -2044,7 +2345,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "30",
       "file_number": "26-662",
       "title": "Nowakowski-Bond Resolution-2026-No.51 JFK Park Improvement",
@@ -2066,7 +2369,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "31",
       "file_number": "26-663",
       "title": "Nowakowski-Bond Resolution-2026-No.52. Fr. Conway Park Improvement ($100,000)",
@@ -2088,7 +2393,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "32",
       "file_number": "26-664",
       "title": "Nowakowski-Bond Resolution-2026-No.53 Riverside Park Improvement ($100,000)",
@@ -2110,7 +2417,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "33",
       "file_number": "26-665",
       "title": "Nowakowski-Bond Resolution-2026 No.54 JH Williams Park Improvement ($250,000)",
@@ -2132,7 +2441,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "34",
       "file_number": "26-666",
       "title": "Nowakowski Bond Resolution-2026 No.55 Houghton Stachowski Riverside Pools Improvement",
@@ -2154,7 +2465,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "35",
       "file_number": "26-667",
       "title": "Nowakowski-Bond Resolution-2026-No.56 Tree Removal Plantings ($1,000,000)",
@@ -2176,7 +2489,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Finance",
+      "sublist_committee": null,
+      "display_section": "Finance",
       "agenda_order": "36",
       "file_number": "26-668",
       "title": "Nowakowski-Bond Resolution-2026-No.57 Parks Vehicle Equipment Acquisitions ($500,000)",
@@ -2198,7 +2513,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "37",
       "file_number": "26-611",
       "title": "Food Store License (NEW) 904 Broadway (FIL)",
@@ -2220,7 +2537,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "38",
       "file_number": "26-612",
       "title": "Food Store License (NEW) 975 Broadway (FIL)",
@@ -2242,7 +2561,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "39",
       "file_number": "26-613",
       "title": "Food Store License (NEW) 283 Aka 295 Main St (FIL)",
@@ -2264,7 +2585,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "40",
       "file_number": "26-614",
       "title": "Garbage Collector License (New) BACH'S TOWING LLC",
@@ -2286,7 +2609,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "41",
       "file_number": "26-615",
       "title": "Lodging House License (NEW) 211 Rhode Island (NI)",
@@ -2308,7 +2633,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "42",
       "file_number": "26-616",
       "title": "Property Managers License (NEW) ARSUS MANAGEMENT GROUP LLC",
@@ -2330,7 +2657,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "43",
       "file_number": "26-617",
       "title": "Property Managers License (NEW) MEB CONSULTANCY LLC",
@@ -2352,7 +2681,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "44",
       "file_number": "26-618",
       "title": "Property Managers License (NEW)",
@@ -2374,7 +2705,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "45",
       "file_number": "26-619",
       "title": "Restaurant Dance License (NEW) 1210 BROADWAY (FILL)",
@@ -2396,7 +2729,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "46",
       "file_number": "26-620",
       "title": "Second Hand Dealer (New) 148 Elmwood (FILL)",
@@ -2418,7 +2753,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "47",
       "file_number": "26-621",
       "title": "Sidewalk Cafe (New) 1081 ELMWOOD (DEL)",
@@ -2440,7 +2777,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "48",
       "file_number": "26-622",
       "title": "Wholesale Junk/Scrap Processor (New) 9 Grimes AKA 20 Milburn St (FIL)",
@@ -2462,7 +2801,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "49",
       "file_number": "26-462",
       "title": "904 & 906 Broadway - Designate the Peoples Bank of Buffalo Broadway Branch as a local landmark.",
@@ -2484,7 +2825,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "50",
       "file_number": "26-463",
       "title": "587 Fillmore Avenue - Designate the Teofil Fleming House as a local landmark.",
@@ -2506,7 +2849,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "51",
       "file_number": "26-491",
       "title": "Amirgh, A-Special Use Permit-405 Hampshire for Neighborhood Shop (Retail & Services General) in N-2R Zone (NIA)(Hrg 5/5/26)",
@@ -2528,7 +2873,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "52",
       "file_number": "26-492",
       "title": "Hurley, J Special Use Permit - 1329 Niagara for Outdoor Dining and Tavern Use in N-2C Zone (NIA)(Hrg 5/5/26)",
@@ -2550,7 +2897,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "53",
       "file_number": "26-493",
       "title": "C. James, Zoning Map Amendment - 3298 (Aka 3330) Main from N-4-30 to N-3C (Uni)(Hrg5/5/26)",
@@ -2572,7 +2921,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "54",
       "file_number": "26-283",
       "title": "C. Steger, Special Use - 3298 (Aka 3330) Main for Electronic Msg Ctr - N-4-30 Zone (Uni)(Hrg 4/7/26)",
@@ -2599,7 +2950,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "55",
       "file_number": "24-1963",
       "title": "Planning Board Finding - Planned Unit Development - 680 Amherst / Voelker's Lanes",
@@ -2621,7 +2974,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "56",
       "file_number": "24-1882",
       "title": "SEQR Neg Dec - 680 Amherst St",
@@ -2643,7 +2998,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "57",
       "file_number": "24-1771",
       "title": "T.Haut, Planned Unit Development- 680 Amherst & 666, 668, 670 Amherst; 111, 141, 155 Marion; 1634, 1628, 1624 Elmwood in N-3C, N-3E, N-1S Zones (Nor)(Hrg11/6/24)",
@@ -2725,7 +3082,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "Legislation",
+      "sublist_committee": null,
+      "display_section": "Legislation",
       "agenda_order": "58",
       "file_number": "26-494",
       "title": "Woods, F, Special Use Permit - 1048 Clinton for Assembly in N-3E Zone (FIL)(Hrg 5/5/26)",
@@ -2752,7 +3111,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "62",
       "file_number": "26-737",
       "title": "Bollman - Comm of Deeds - Public Duties",
@@ -2769,7 +3130,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "63",
       "file_number": "26-738",
       "title": "Everhart - Requesting Amendments to the City of Buffalo Board of Ethics Appointment Process.",
@@ -2786,7 +3149,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "64",
       "file_number": "26-739",
       "title": "Halton-Pope - Home Rule Request for A10643/S9839- City of Buffalo Bond Sale Authorization- Extender",
@@ -2803,7 +3168,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "65",
       "file_number": "26-740",
       "title": "Halton-Pope: Home Rule Request for the Reauthorization of Residential Parking Permit in the Fruit Belt A.10744-A/S.9492-A",
@@ -2820,7 +3187,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "66",
       "file_number": "26-747",
       "title": "Halton-Pope: Resolution Requesting Clarification from the Commissioner of Administration, Finance, Policy & Urban Affairs Regarding the Proposed $5.5 Million Reserve for Capital Purposes Included in the Mayor’s Proposed 2026–2027 Budget",
@@ -2837,7 +3206,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "67",
       "file_number": "26-748",
       "title": "Halton-Pope: Resolution Requesting Supplemental Vacancy, Workforce Separation, and Demographic Data",
@@ -2854,7 +3225,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "68",
       "file_number": "26-749",
       "title": "Halton-Pope, Feroleto—Adopting an Earlier Capital Budget to Facilitate Timely Project Completion",
@@ -2906,7 +3279,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "69",
       "file_number": "26-741",
       "title": "Nowakowski-Budget and Personnel Amendment-TVA",
@@ -2928,7 +3303,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "70",
       "file_number": "26-742",
       "title": "Nowakowski - Discharge Item 25-919 from Legislation Committee",
@@ -2945,7 +3322,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "71",
       "file_number": "26-743",
       "title": "Nowakowski - Fee Waiver Pride Fest 26",
@@ -2967,7 +3346,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "72",
       "file_number": "26-744",
       "title": "Scanlon- Music in the Park Fee Waiver",
@@ -2984,7 +3365,9 @@
     {
       "meeting_id": "3347",
       "agenda_id": "3089",
-      "section": "52.",
+      "department": "RESOLUTIONS",
+      "sublist_committee": null,
+      "display_section": "RESOLUTIONS",
       "agenda_order": "73",
       "file_number": "26-745",
       "title": "Wyatt - Requesting Exploration of a Commuter Tax for the City of Buffalo",
@@ -2995,12 +3378,21 @@
           "label": "Agenda Item Printout",
           "type": "agenda_item_printout",
           "url": "https://buffalony.iqm2.com/Citizens/FileOpen.aspx?Type=30&ID=877598&MeetingID=3347"
-        },
-        {
-          "label": "30000 : Announcement of Committee Meetings",
-          "type": "unknown",
-          "url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=30000&CssClass="
-        },
+        }
+      ]
+    },
+    {
+      "meeting_id": "3347",
+      "agenda_id": "3089",
+      "department": "Announcement of Committee Meetings",
+      "sublist_committee": null,
+      "display_section": "Announcement of Committee Meetings",
+      "agenda_order": null,
+      "file_number": null,
+      "title": "30000 : Announcement of Committee Meetings",
+      "raw_item_text": "30000 : Announcement of Committee Meetings",
+      "item_url": "https://buffalony.iqm2.com/Citizens/Detail_LegiFile.aspx?Frame=&MeetingID=3347&MediaPosition=&ID=30000&CssClass=",
+      "attachments": [
         {
           "label": "Agenda Item Printout",
           "type": "agenda_item_printout",
