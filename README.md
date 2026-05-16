@@ -69,9 +69,9 @@ Open data + public agendas
 Initial Data Sources
 | Agency / Source                            | URL                                                                                                            | Agenda Access | Video / Livestream | Public Comment | Data Format      | Notes / Research Questions                        |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------- | ------------------ | -------------- | ---------------- | ------------------------------------------------- |
-| Buffalo Charter                            | [https://ecode360.com/BU1237)                                                 | N/A           | No                 | N/A            | HTML             | Can Charter articles become “Major Arcana”?       |
-| Common Council                             | [https://buffalony.iqm2.com/Citizens/Default.aspx](https://buffalony.iqm2.com/Citizens/Default.aspx)                                               | Yes           | Yes                | Yes            | Legistar / PDF   | Best source for legislation, hearings, committees |
-
+| City Charter                            | [https://ecode360.com/BU1237)                                                 | N/A           | No                 | N/A            | HTML             | Can Charter articles become “Major Arcana”?       |
+| Common Council                             | [https://buffalony.iqm2.com/Citizens/Default.aspx](https://buffalony.iqm2.com/Citizens/Default.aspx)                                               | Yes           | Yes                | Yes            | PDF   | Best source for legislation, hearings, committees |
+| Green Code                            | [https://www.buffalogreencode.com/December_2016/UDO_Dec_2016.pdf)                                                 | N/A           | No                 | N/A            | HTML             | Document Guides City Development.  Rulebook for Planning Board & ZBA       |
 
 Current Questions
 How do we reduce friction between citizens and city hall?
